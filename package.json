@@ -6,7 +6,7 @@
   },
   "name": "zero",
   "description": "version zero of a JavaScript project",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "homepage": "https://github.com/onirame/zero",
   "repository": {
     "type": "git",
